@@ -1,0 +1,16 @@
+PODS:
+  - DLDownLoader (0.1.0)
+
+DEPENDENCIES:
+  - DLDownLoader (from `../`)
+
+EXTERNAL SOURCES:
+  DLDownLoader:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DLDownLoader: 900ff3b4a6996f708d83330b5d80642e1c2c2def
+
+PODFILE CHECKSUM: d628d3340af7bc4e9bb0d20541a525470ce112c5
+
+COCOAPODS: 1.2.1

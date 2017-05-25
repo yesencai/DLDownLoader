@@ -1,0 +1,6 @@
+framework module DLDownLoader {
+  umbrella header "DLDownLoader-umbrella.h"
+
+  export *
+  module * { export * }
+}
